@@ -1,0 +1,1690 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Pracovni smeny bez casu//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pracovní směny – bez časů
+BEGIN:VEVENT
+UID:4a67b923-97cc-4e5a-88ac-5c879942134d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:10499647-6b41-42fc-a891-415a2a1a97e3@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:c46e8c0b-3848-4b85-89ee-75b0bee23908@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a760344-7a19-4aab-b2c0-02ad967b6cba@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:008a9b17-c093-4379-a18d-f1e319476e16@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4ff99e-edae-4264-8d0e-23d0f1c37d72@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6bdee9-713d-4b75-b950-e876c8d9322d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf394e19-9d1a-4d44-b8e2-a042c93d2414@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:a01bd889-a4c9-4528-8e65-289b4d7adda6@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:cf2c67b6-67df-4efd-94f0-6c051d2a0db5@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:36f209a0-7bc3-45fd-bb23-fcfe6d138048@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b4d4be0-d00d-4c14-aa8a-4e35cc2968ba@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:395a3856-fc6d-4430-ab65-729e2e0b3e24@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:02aca466-4436-42a8-adc7-56b1dab2d038@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:f8d2f719-f38c-4c98-bd85-02b780aee4fb@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:c42eab7a-9fd6-48aa-b800-66df07f77ab8@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa79359-b1c6-44cc-9def-1027d7bb6837@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b026e874-9400-4c5a-9918-5842e25a73fa@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d33c7256-2aaf-43bc-8dc2-8d8b8f53165e@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:bef01037-9ed5-4d87-8b72-fba988ecf465@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:43bb141e-df11-4336-816a-27a86f300fc7@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:627e2672-4e5a-455b-82f5-ef2fbf1ddf25@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:81494bba-80c2-4239-bc64-e47073ce36fd@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:f3e58396-2c0f-49d7-b692-542c1c064b13@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:f977e334-2d18-4619-ab4c-2d336ac770dd@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:6bbaafc1-de95-47ee-8716-d93b66504923@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:224a2b58-50a1-4e52-a013-d08b7f67683a@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8050766-52c5-46aa-9891-7af075dd2daf@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:38a0c936-dfe2-4ba7-82a6-ebe0e1130619@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:708517f2-189f-47d2-a253-750a25559564@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9d31a9-2fdb-43e4-a884-84f71105526e@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:bafe631c-836b-4767-b653-dd51cb33b19c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9cc75a-6094-43b8-b360-3da8c06475ab@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7288a80a-6d85-447a-a41c-d521f67d8627@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:aad0b58c-a57f-4e0e-b35f-a293eb3b2f76@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:49e9d153-4290-45c0-9aad-8636c285615e@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:17f60be3-2cc4-4f95-8a88-7f788b39b513@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4bc5847-345d-4154-b880-89b4c56f414b@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:846290f1-54b6-44f4-a136-01b9997a2ef1@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee31f20f-6960-4f63-9f8a-87f66d717219@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd5c75a-7168-4849-9912-7a2492abdc24@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:8af62660-dc0a-4e07-8e8b-3ed5047f35bd@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b5ca839-b56c-4cff-86e1-06daa901f0d4@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f66576b-7e67-4d23-8c81-f87af238fd70@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:2872c4af-11ef-4d1a-9612-c4827c4d08da@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7cfcb26f-2dde-4d27-9fb3-d25fff042954@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7c683028-a174-414e-9775-5afac03d6c60@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:a76e6ffa-0c60-47a8-96d9-c043d76f0704@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:9811cc1a-dff4-41f8-bcdb-26519ccdd9a6@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d429b2c9-23d5-469e-aeef-35e1b6dede4c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:edc6e33e-fe0d-4d71-a341-7fd537722513@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9b928f-7efd-495c-a761-7fcd7870b587@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3028f5a-2a4e-4bad-ab25-c587ef9ec67b@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:e096b72b-be5c-4bc9-8f00-35ff35149952@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0a1af2e-55cb-4915-a184-4ed84c21ff4c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:db0f2e71-8296-4bb3-bc36-601cf654541f@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb88bf9c-ef67-449d-8092-176b0d5685a0@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:ff56c8ba-e2d6-4dcc-9fbc-7c71aa5f6b2c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d71e7f-5121-4b8e-a1c4-c8055c56fd9b@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f6104e-1331-4398-89c4-792471283d8a@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:a538f4bb-8055-494c-b6ca-f9e97f50bedb@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:38752d2e-6db7-495a-9601-83a6d0dc9beb@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d7463e-5257-49d1-add1-3b9c62293bb2@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:cce9e220-dfca-4543-9509-dbf70f6e86e0@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:43306647-744e-45d2-8359-c99ff7f07b27@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0e8b64-d960-44ff-83ee-9bdc8bcef506@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:5530bcb1-b003-4404-a107-18d18b6dc041@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:849cd5f8-6a0a-49f7-a60f-2017236176c5@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d90d3f-c5d8-4006-b74a-930654ad867c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:29467eb2-1109-410e-9700-b029f23b1c7a@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:a15ae270-bf80-4232-ab02-d4bf021f6cc5@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:6fef859f-89d4-4acc-9667-25919af98f0d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:e205df7f-fd18-4f0e-978c-0366f7b94246@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:c31ab75d-a3ce-4c66-ae64-64f266fb0b08@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef3f940-587b-42cc-a0f9-52eeabebcfdf@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:32cbaa57-c00e-4df0-b320-cc0a1cc6173d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d77898f4-38b4-48df-9353-f512fc091a00@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:554b419b-5b3c-407d-933b-0f92817fd83d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:777d2536-1f55-48a7-a9b1-42662582f9c4@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d40f6f2b-90ff-4f5b-8b22-974b0abd7e91@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a513674-e9aa-457d-9376-740557cde701@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b14b9e11-9ade-46da-9efd-c642b473f079@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d5efa2-dcd8-49be-a1d9-c8d40cd5d2ff@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c7ecc3-b596-430a-b884-e4e0a8344ffa@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:57ed5a2d-1e66-45da-9f9d-6ecf454ec580@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d8d60af-f359-4991-a8ed-b421969698e9@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:648f55bc-1938-479b-89b4-0d04054d440d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:1445431e-5bc6-4a54-a341-081b3242eac5@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:70d682b8-75b6-409b-a0de-07a3edb5f385@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8e34b2-afee-435b-80ef-610279e4042d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:30d183ea-ed54-4b0c-b466-1a06582649c6@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e5d838-3b48-43dd-9ce2-e83c18ee0b1f@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:baedad03-90d5-42cd-8e48-80e6887089d3@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:52e5232b-733b-4b59-9f87-973bc2e41d53@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1247782-c439-492d-bcd9-9761383b3b87@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d94a2955-053c-4495-91b6-effd38c97d38@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:9da71e2d-7880-4902-8baa-6759d075130e@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d90f9eb-83cf-4b9b-8aed-d2dcfc60af0c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a5b468-a91f-4f48-9888-8c630e8dc712@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:909a8bad-f6d0-47a3-83ee-fb36f7057227@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:0aab4fc7-5a9e-4b60-a92c-dde88a9961b2@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4cc8e6-bc3e-4a05-b536-bb20b7c50526@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:75b6479a-658b-425c-b2e6-23cd5d01fc21@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7cbf1e55-3f4d-4bac-a546-4cd5097b6f2b@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:092f6d97-4012-48b4-88f0-9b194eed74a0@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe5bd95-2f03-4d56-87a0-aab54e034937@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:14a12570-764d-47a2-be51-7a4202ce4174@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:5967bb92-7a8b-4675-a887-1f2f3ecaeb50@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:9fe2f906-a294-4763-9824-08bc9febe59a@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7aac95ab-c7cc-4053-8c28-4c470bcb1e1d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7af89829-f637-4e07-8e50-237d1f170626@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:309e56fe-8b47-461d-bc33-b7bf67d94c76@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b654c78b-5d6c-4272-9f61-9b8c08831cc3@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b34664f1-95d3-4139-abba-e9ba647aef0d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b6729fde-e4ec-4e1c-b779-f83530219e64@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee54e54-e750-494b-8dc1-132bfb3f012c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b7270d95-6d66-499b-800f-87141ecb8f81@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:dcb79bf8-4213-4f7b-8107-b183293fc62e@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:467b84ca-8e2b-4611-ae48-5aeebf880bc3@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:08c5a864-cb24-40b4-acca-a4dd5878fd3b@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee04d0da-8d92-4cce-a065-64e8256c3c52@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f7db009-54e8-49f1-859d-c738b49d9bf9@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:dcb4c252-d789-4cbc-8b59-f3b7f9c260da@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:39f39c8e-3e76-4ecd-8cb1-13abf41c2157@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:9eb84ff2-a59a-4cd4-9add-dc567455d812@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:129a07d8-949e-4222-9566-762c65a51bb1@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:efeadd25-5920-421f-ab90-45a80e0b3ecc@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e9b3ce-c727-44cb-a56a-b521cde56cbf@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:daabfbbd-a3a7-4be7-8ea8-9da2008ac593@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:17ca3156-4dce-4adc-9659-851ebf3e3e0e@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:49db8f87-471a-452e-9e25-241f5b3da0d1@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d780c7b1-95d5-4e6f-a918-dbae72d83365@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3c88d72-e754-4ef0-b1c4-b71c5040d6a1@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:86055f89-aabe-40c2-9120-870f479c658e@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:508422bc-5c31-4ace-8eaf-e5b637f79d3d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:db47fc55-8774-4cd7-8bf8-4cab65b26624@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:f73d94c4-2336-4f05-8805-9fedf01fb69d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf4bac68-95e9-4b11-b82d-6a6bce1e34dd@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:d218bfd2-c36d-4811-84f7-4c341f0f75d5@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:059e5268-bb4b-4f43-965b-8ba9398c3cd5@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:16661579-cce7-43fa-944d-5ec096449d50@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:30b37f2e-5dd3-482f-8891-7f6606bfd29a@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c414cdf-9774-415d-b267-57f936f98c86@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe4ff86-506f-4ea5-9a9d-37143851e8d9@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:57486878-bbe8-4a62-80aa-ab5fc92bdf08@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:66f4bab0-b3a4-4d65-8e86-d44e6f2fe7ec@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b88e116e-4cd2-4a65-8557-afd4a57ddf92@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:fdd8bb97-5ce1-44b2-8776-44db8f7f3a70@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab32686-165d-4242-a39f-7ee97dd16b1b@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:091621be-c579-42d2-8702-7e834d807781@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:c87a59c3-eb95-4ddf-a906-c2d87ffa7201@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:1915981c-55ab-4f2d-b40c-43e83d43e8cd@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:17270a0a-e92a-40b8-bbcf-1061ed04eeb8@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:73d1b8fd-7d83-446d-a3ea-8ca49e756037@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:15869463-be97-4818-8ab6-b92c4330cc96@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b1a899ed-b711-4b70-b805-8266ab8adf2c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d92791d-f617-47f0-8448-691f7d0f90bb@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:f612b920-db54-45c7-97a3-94e2830e2527@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b6fa8191-9e73-4eff-b4d7-0cb416946e37@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0abdf9c-655f-486f-a69f-70754625ed33@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:59699a14-3ea5-4ed0-8287-018f48ef47da@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:c586cc82-7443-45e6-a365-c59b5fd40627@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3fb067d-4aaa-45d9-a9a5-ad22b57e9574@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:33d5ebb2-ce7a-4811-aa69-d29444ff0c88@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:6147488f-7db3-4023-a4ec-bee6d30f2d14@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd253c4-302f-458a-a5b6-952778e4813b@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb7173da-41f7-42aa-bd7d-9a02be11a9c6@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:8de1c1c4-c1aa-4b0b-8a3f-5cae83882fc4@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:750bb65b-ccc4-4e5c-bae3-2bdb627decc1@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:acaebf2f-3554-4c5b-95d4-a6e041385706@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:e23ce016-f4b4-4500-b730-037c80030304@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f32288a-d5a6-49d1-9e09-df930333878f@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:4274467e-9792-4635-a3b7-10f3bfcc51d2@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:b02ba0e8-8cb1-43bf-8b3e-49f2736dcdc2@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:78bd0d38-a502-4f20-add8-9455d0b2b2bb@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7777032-a0a5-40b7-ac91-260615e57abe@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:997f8e37-bc7a-4487-ad06-a3aee9fad574@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:794a91e4-ed56-41f9-9fac-2f1f4ebd82d2@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:dda9a054-ec75-48cc-8a61-02053799e03d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:e7a9c1ea-82a3-474f-b341-cf5567f383ef@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:45552bf7-4c07-4718-aaa6-16f60039581b@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f32c7df-532e-4b92-99c4-7bdb971b5c8d@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:8ce1a14c-03d3-47c1-a108-afb89a570f70@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:569ad0d2-6691-43c7-b72d-38dba49f79df@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:Ranní směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f8ac04e-8ea2-4b55-907d-e9433291cd3a@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:f90cec10-f58a-4184-bede-e603ac9c795c@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf713f7-bdd4-4659-a336-2e6ec7e34602@chatgpt-shift-calendar
+DTSTAMP:20261024T100121Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:Noční směna
+DESCRIPTION:Pracovní směna podle čtyřtýdenního cyklu\; bez uvedený
+ ch časů.
+END:VEVENT
+END:VCALENDAR
